@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{B3FD5085-D0A3-4DB5-AD41-0C46896C7567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C848CB88-E9E6-451C-B39D-0CFBD0C38F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationUI", "MigrationUI\MigrationUI.csproj", "{DFD40526-0B8E-4E4F-B739-E6CA841291F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FD5085-D0A3-4DB5-AD41-0C46896C7567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FD5085-D0A3-4DB5-AD41-0C46896C7567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FD5085-D0A3-4DB5-AD41-0C46896C7567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FD5085-D0A3-4DB5-AD41-0C46896C7567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C848CB88-E9E6-451C-B39D-0CFBD0C38F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C848CB88-E9E6-451C-B39D-0CFBD0C38F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C848CB88-E9E6-451C-B39D-0CFBD0C38F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C848CB88-E9E6-451C-B39D-0CFBD0C38F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD40526-0B8E-4E4F-B739-E6CA841291F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD40526-0B8E-4E4F-B739-E6CA841291F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD40526-0B8E-4E4F-B739-E6CA841291F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD40526-0B8E-4E4F-B739-E6CA841291F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36FC5D9-F787-46B8-BC38-704D512731E8}
+	EndGlobalSection
+EndGlobal
